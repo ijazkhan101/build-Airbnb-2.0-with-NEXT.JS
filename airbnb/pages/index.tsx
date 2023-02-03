@@ -6,21 +6,12 @@ const Home: NextPage = () => {
   return (
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <Head>
-        <title>Create Next App</title>
+        <title>lets build Airbnb 2023</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
-        <h1 className="text-6xl font-bold">
-          Welcome to Next js
-        </h1>
-
-      <h1>lets build Airbnb 2023</h1>
-      
-
-    
-      </main>
-
+      { /* Header will goes here */}
+      { /* Header will goes here */}
+      { /* Header will goes here */}
     </div>
   )
 }
